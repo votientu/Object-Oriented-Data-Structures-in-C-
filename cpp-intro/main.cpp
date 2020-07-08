@@ -8,5 +8,5 @@ int main()
 	char c = 'a';
 
 	std::cout << i << " " << c << std::endl;
-	return 0;
+	return 1;
 }
